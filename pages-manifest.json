@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/frontegg/[...frontegg-middleware]": "pages/api/frontegg/[...frontegg-middleware].js",
+  "/api/models": "pages/api/models.js",
+  "/api/test": "pages/api/test.js",
+  "/profile": "pages/profile.html",
+  "/": "pages/index.html",
+  "/customers": "pages/customers.js",
+  "/customers/[id]": "pages/customers/[id].js",
+  "/_document": "pages/_document.js",
+  "/success": "pages/success.html",
+  "/projects/[id]": "pages/projects/[id].js",
+  "/projects": "pages/projects.js",
+  "/404": "pages/404.html"
+}
